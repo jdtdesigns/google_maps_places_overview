@@ -1,5 +1,3 @@
-// AIzaSyB_9_LFP6G6wvFaO7nNQOKBmUpPrq_v9o8
-
 var map;
 var service;
 
